@@ -117,16 +117,18 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Certifications
 
-<!-- Certifications -->
+
+
 <div>
-    <strong>Certifications: </strong>
     <div style="display: flex; align-items: center;">
         <a href="file:///C:/Users/matth/Downloads/CompTIA%20Security+%20ce%20certificate.pdf">
             <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
         </a>
+        <a href="https://www.codepath.org/">
+            <img src="https://img.shields.io/badge/-CodePath.org-4285F4?&style=for-the-badge&logo=CodePath.org&logoColor=white" />
+        </a>
     </div>
 </div>
-
 
 
 ## Projects
